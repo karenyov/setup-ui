@@ -1,2 +1,2 @@
-# setup-ui
+# Setup UI
 NLW Setup - UI
